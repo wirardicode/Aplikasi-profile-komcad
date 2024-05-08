@@ -1,0 +1,25 @@
+div.sambutan{
+    display: flex;
+    flex-wrap: wrap;
+    height: 755px;
+    background-image: url(https://www.ninna.id/wp-content/uploads/2023/02/Komcad-TNI-2023.webp);
+    background-position: 75%;
+    background-size:cover;
+}
+
+div.setTombol{
+    position: absolute;
+    bottom: 30px;
+    color: #ffffffff;
+}
+
+button#helo{
+    background-color: #32323296;
+    border-color: transparent !important;
+    padding: 20px;
+    color: solid #ffffffff;
+}
+
+#helo:hover{
+    background-color: #323232;
+    }

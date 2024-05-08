@@ -1,0 +1,29 @@
+#img-title{
+    width: 100%;
+    height: 600px ;
+    min-width: 10%;
+    display: flex;
+}
+div.info{
+    display: flex;
+    flex-direction: row;
+}
+
+div.title{
+   margin-right: 110px;
+   position: relative;
+}
+
+div.des{
+    position: relative;
+    min-width: 10%;
+    font-size: 20px;
+}
+
+#set-img{
+    width: 100%;
+}
+
+#penjelasan{
+    transition: opacity 1s;
+}
